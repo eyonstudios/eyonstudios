@@ -896,7 +896,7 @@
                         </div>
                     </div>
                     <div class="app-actions">
-                        <a href="https://play.google.com/store/apps/details?iDd=com.eyon.loadlistahan" class="btn btn-primary" target="_blank">
+                        <a href="https://play.google.com/store/apps/details?id=com.eyon.loadlistahan" class="btn btn-primary" target="_blank">
                             <i class="fab fa-google-play"></i>
                             View on Play Store
                         </a>
