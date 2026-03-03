@@ -808,7 +808,7 @@
                 </div>
 
                 <div class="app-card loading">
-                    <img src="https://play-lh.googleusercontent.com/TSt7LpBwJY65X5jf8fYvIzc-Os6n8JgnZVKp0MuPoTIqGJME_2v8g9DdJzpSKn1mKULjTqvfcmxLLKfdU13RpA=w240-h480-rw" alt="Blox Fruits Trade Analyzer" class="app-icon">
+                    <img src="https://play-lh.googleusercontent.com/F_4iAmW1-ehWIvCBdGYskUBbX3LVuw1EMmNhqIQ6QhSQ8C4UH1nsVt0F4cqURnyBrqvHRuRiEfviAh-U-CqLwoE=w480-h960-rw" alt="Blox Fruits Trade Analyzer" class="app-icon">
                     <h3 class="app-title">Blox Fruits Trade Analyzer</h3>
                     <p class="app-description">
                         Blox Fruits Trade Analyzer is your essential tool for evaluating trades in the popular Blox Fruits game! Designed for both beginners and seasoned players, this app allows you to analyze your trades quickly and determine whether they are a win, loss, or fair deal.
